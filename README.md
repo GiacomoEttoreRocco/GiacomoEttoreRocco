@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-Hi! I'm Giacomo Ettore Rocco, I'm a graduated Computer Scientist in the univeristy of Udine. And currently I'm a Data Science student at the Univeristy of Trieste.
-- 🔭 I’m currently working doing the master thesis, an application of Reinforcement Learning and Advanced Programming in a simulated environment on Soft Voxel Robots, with Professor Eric Medvet, which is the head of the Evolutionary Robotics and Artificial Life Lab of units, https://erallab.inginf.units.it/.
-- - 🖥️ My major interests are Reinforcement Learning, Deep Learning, Continuous Control, Advanced programming and Problem solving. 💻
-- - 📫 How to reach me: https://www.linkedin.com/in/giacomo-ettore-rocco-a56b01170/ 📬
+I'm Giacomo Ettore Rocco, a Data Science student at the University of Trieste. I hold a degree in Computer Science from the University of Udine. 
+
+- 🔭 Currently, I'm working on my master's thesis, which involves applying Reinforcement Learning and Advanced Programming techniques in a simulated environment with Soft Voxel Robots. This research is being conducted under the guidance of Professor Eric Medvet, who leads the Evolutionary Robotics and Artificial Life Lab at the university. You can find more about our lab's work at https://erallab.inginf.units.it/.
+
+- 🖥️ My primary interests lie in the fields of Reinforcement Learning, Deep Learning, Continuous Control, Advanced Programming, and Problem Solving. I'm passionate about leveraging these techniques to tackle complex challenges and develop innovative solutions.
+
+- 📫 Feel free to reach out to me on LinkedIn at https://www.linkedin.com/in/giacomo-ettore-rocco-a56b01170/. I'm always excited to connect with fellow professionals and collaborate on interesting projects.
 
 <!--
 **GiacomoEttoreRocco/GiacomoEttoreRocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
