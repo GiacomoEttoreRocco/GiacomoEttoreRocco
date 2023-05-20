@@ -6,12 +6,8 @@ I'm Giacomo Ettore Rocco, a Data Science student at the University of Trieste. I
 
 - 🖥️ My primary interests lie in the fields of Reinforcement Learning, Deep Learning, Continuous Control, Advanced Programming, and Problem Solving. I'm passionate about leveraging these techniques to tackle complex challenges and develop innovative solutions.
 
-- 📫 Feel free to reach out to me on LinkedIn
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/giacomo-ettore-rocco-a56b01170"
-    
+- 📫 Feel free to reach out to me on LinkedIn at https://www.linkedin.com/in/giacomo-ettore-rocco-a56b01170/. I'm always excited to connect with fellow professionals and collaborate on interesting projects.
+
 I'm always excited to connect with fellow professionals and collaborate on interesting projects.
 
 
