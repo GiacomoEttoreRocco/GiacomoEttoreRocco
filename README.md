@@ -8,6 +8,8 @@ I'm Giacomo Ettore Rocco, a Data Science student at the University of Trieste. I
 
 - 📫 Feel free to reach out to me on LinkedIn at https://www.linkedin.com/in/giacomo-ettore-rocco-a56b01170/. I'm always excited to connect with fellow professionals and collaborate on interesting projects.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiacomoEttoreRocco)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GiacomoEttoreRocco/GiacomoEttoreRocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
